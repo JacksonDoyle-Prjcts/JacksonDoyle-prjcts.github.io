@@ -1,7 +1,7 @@
 # Jackson Doyle 
 Email: jbdoyle1@iastate.edu
 
-Hello and welcome to my portfolio webpage
+Welcome to my portfolio page! 
 
 Career Objective: I would be to work in a position regarding power systems or power generation
 
@@ -18,42 +18,43 @@ Link to documents:
 
 Big picture contibutions:
 
-## project 1
+## project 1: CPRE2880: Gardening Cybots
 
-Project description:
+Project description: program cybots to "do maintenance" on plants and clean surreounding areas, removing debris such as leaves and bugs
 
-My role:
+My role: Helped in the developement of the gui and creation of documentation
 
-Skills learned:
+Skills learned: Python, Circuitry, and Planning
 
-Resources used:
+Resources used: Git and VS code
 
-## project 2
 
-Project description:
+## project 2: EE 3300: Diode Based Temperature Sensor
 
-My role:
+Project description: Develop a linear temperature sensor using diodes and a difference amplifier. 
+Proving its funcitonality within the Cadence software in the CMOS process
 
-Skills learned:
+My role: Developed the circuit architecture and defining characteristic equations. Modeled the circuit in Cadence and reached a working model
 
-Resources used:
+Skills learned: Cadence, circuit design
 
-## project 3
+Resources used: Cadence
 
-Project description:
+## project 3: EE 2850: Arduino Pong Game
 
-My role:
+Project description: Develop a playable pong game on an LCD screen using potentiometer controllers and using an Arduino uno for back end development 
 
-Skills learned:
+My role: Developed the circuit design, assisted with the programming of the arduino
 
-Resources used:
+Skills learned: Arduino, coding, circuit design
 
-Presentations: 
+Resources used: Arduino, Arduino Uno
 
-[Jackson Doyle Resume]()
 
-General Education Reflection 
+[Jackson Doyle Resume](images/FinalUpdatedResume%20(2).pdf)
 
-Cumulative Reflection
+[General Education Reflection]()
 
-Ethics paper from CPRE/EE 394
+[Cumulative Reflection](images/Jackson%20Doyle.pdf)
+
+[Ethics paper from CPRE/EE 2320](images/CaseStudy2320.pdf)
