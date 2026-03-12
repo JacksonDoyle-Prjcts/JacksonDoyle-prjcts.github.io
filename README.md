@@ -1,6 +1,8 @@
 # Jackson Doyle 
 Email: jbdoyle1@iastate.edu
 
+<img src="images/Duwe_Henry012.jpg" width="200" height="200">
+
 Welcome to my portfolio page! 
 
 Career Objective: I would be to work in a position regarding power systems or power generation
