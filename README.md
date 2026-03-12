@@ -26,7 +26,7 @@ Big picture contibutions: Contributed towards project completion by utilizing sk
 
 Project description: program cybots to "do maintenance" on plants and clean surreounding areas, removing debris such as leaves and bugs. In the case of this project, the debris was a tinfoil wrapping around objects. Scanners were used to identify objects with foil wrapping and thus indicate that they were plants that required maintenance.
 
-My role: Helped in the developement of the gui and creation of documentation
+My role: Helped in the developement of the gui and creation of documentation. Front end project development and technical reporting were my primary responsibilities alongside some component soldering and circuit implementation
 
 Skills learned: Python, Circuitry, and Planning
 
@@ -40,9 +40,9 @@ Resources used: Git and VS code
 Project description: Develop a linear temperature sensor using diodes and a difference amplifier. 
 Proving its funcitonality within the Cadence software in the CMOS process
 
-My role: Developed the circuit architecture and defining characteristic equations. Modeled the circuit in Cadence and reached a working model
+My role: Developed the circuit architecture and defining characteristic equations. Modeled the circuit in Cadence and reached a working model. The final architecture utilized a difference amplifier to create a linear slope of voltage output over a temperature sweep. The op-amp was externally compensated and values were determined through calculation to meet the projects criteria.
 
-Skills learned: Cadence, circuit design
+Skills learned: Cadence, circuit design, software implementation and layout of CMOS process
 
 Resources used: Cadence
 
@@ -50,11 +50,11 @@ Resources used: Cadence
 
 ## project 3: EE 2850: Arduino Pong Game
 
-Project description: Develop a playable pong game on an LCD screen using potentiometer controllers and using an Arduino uno for back end development 
+Project description: Develop a fully playable pong game on an LCD screen using potentiometer controllers and using an Arduino uno for back end development 
 
-My role: Developed the circuit design, assisted with the programming of the arduino
+My role: Developed the circuit design that was used to power the LCD and connect to the various arduino ports available. Additionally I assisted with the programming of the arduino itself using the arduino software.
 
-Skills learned: Arduino, coding, circuit design
+Skills learned: Arduino, coding, circuit design, circuit analysis and connecting hardware and software
 
 Resources used: Arduino, Arduino Uno
 
